@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 340a0c2671987ef4b9711583840ed8a7
+timeCreated: 1446664064
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - fireballPrefab: {fileID: 181862, guid: 576870428d8686947ab600574829cbf8, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
